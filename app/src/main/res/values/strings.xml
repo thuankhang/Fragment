@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FragmentUI</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="New_login_ui">New Login UI</string>
+    <string name="Login">Login</string>
+    <string name="Email">Email</string>
+    <string name="Pass">Password</string>
+    <string name="LoginWith">OR LOGIN WITH</string>
+    <string name="Name">Name</string>
+    <string name="CreateWith">OR CREATE ACCOUNT WITH</string>
+</resources>
